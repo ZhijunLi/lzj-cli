@@ -1,0 +1,25 @@
+{
+  "name": "lzj-cli",
+  "version": "1.0.0",
+  "description": "荔枝前端脚手架",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "lizhijun",
+    "email": "i@lizhijun.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "^5.4.0"
+  }
+}
