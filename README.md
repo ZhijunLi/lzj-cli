@@ -4,7 +4,7 @@
 # 快速上手
 ## 安装
 ```
-npm i -g lzj-cli
+npm i @lizhijundev/lzj-cli -g
 ```
 
 ## 创建项目

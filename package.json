@@ -1,5 +1,5 @@
 {
-  "name": "lzj-cli",
+  "name": "@lizhijundev/lzj-cli",
   "version": "1.0.0",
   "description": "荔枝前端脚手架",
   "bin": "./bin/cli.js",
