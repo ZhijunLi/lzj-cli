@@ -9,7 +9,7 @@ npm i @lizhijundev/lzj-cli -g
 
 ## 创建项目
 ```
-rol-cli create [-f] [-s coding|github] 项目名
+lzj-cli create [-f] [-s coding|github] 项目名
 ```
 
 `-f` 参数，覆盖并创建项目
